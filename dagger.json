@@ -1,0 +1,6 @@
+{
+  "name": "aws-announcer",
+  "sdk": "go",
+  "source": "dagger",
+  "engineVersion": "v0.11.8"
+}
